@@ -1,0 +1,2 @@
+[12-Jun-2022 20:39:22 Africa/Cairo] PHP Notice:  Undefined variable: startDate in /home/ostwkzd4cb1e/public_html/al-moshtry.com/max/controller/API/stock/report.php on line 55
+[12-Jun-2022 20:39:22 Africa/Cairo] PHP Notice:  Undefined variable: endDate in /home/ostwkzd4cb1e/public_html/al-moshtry.com/max/controller/API/stock/report.php on line 56
